@@ -1,6 +1,6 @@
 # 4-Bit Adder with Seven-Segment Display (Basys3 FPGA)
 
-## 📌 Project Description
+## Project Description
 This project implements a **4-bit ripple-carry adder (RCA)** with a **BCD-to-seven-segment display decoder** on the Basys3 FPGA board.  
 
 - Two 4-bit numbers (A and B) are provided through the board’s switches.  
@@ -11,7 +11,7 @@ This project implements a **4-bit ripple-carry adder (RCA)** with a **BCD-to-sev
 This project builds on **Lab 2 (RCA/CLA)** by extending it with a display interface. The goal was to learn **hierarchical Verilog design**, **simulation workflows**, and **FPGA implementation**.
 
 
-## ▶️ Simulation Instructions
+## Simulation Instructions
 We used **Vivado** for simulation.
 
 1. Open Vivado and create a new project.  
