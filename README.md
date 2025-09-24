@@ -24,7 +24,7 @@ We used **Vivado** for simulation.
 
 ---
 
-## ⚡ FPGA Implementation
+## FPGA Implementation
 Steps for programming on the **Basys3**:
 
 1. Connect the Basys3 board via USB and power it on.  
